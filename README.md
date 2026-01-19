@@ -11,3 +11,10 @@ Tumne environment ko “trainable” banaya
 PPO pipeline sahi kaam kar raha hai
 
 Learning ka direction correct hai
+
+https://chatgpt.com/share/696dd7a0-e550-800d-8caa-5e8632466744
+
+https://chatgpt.com/share/696d2c29-74a0-800d-bdff-cd273ac0a66f
+
+https://chatgpt.com/share/696dd7e7-8e68-800d-bbfe-b5cef3c4da57
+
