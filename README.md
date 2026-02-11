@@ -22,3 +22,18 @@ https://chatgpt.com/share/696d2c29-74a0-800d-bdff-cd273ac0a66f
 http://localhost:6006/?darkMode=true#scalars&_smoothingWeight=0.956
 
 https://chatgpt.com/share/69819630-7cf4-800d-9db6-3c08595fe6a0
+
+
+## Technical Breakdown
+
+The BVRGym requires so much storage because:
+
+1. **5 Million Training Steps** - Not 1 million, but 5M
+2. **32 Parallel Environments** - Running 32 simulations simultaneously (32× data multiplier)
+3. **High-Fidelity Physics** - JSBSim generates detailed data per step
+4. **Real-Time Monitoring** - TensorBoard logs everything for visualization
+
+**Calculation:**
+```
+5,000,000 steps × 32 environments × ~200-500 bytes per data point
+= Approximately 40-50 GB for TensorBoard logs alone
