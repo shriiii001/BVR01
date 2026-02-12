@@ -37,3 +37,5 @@ The BVRGym requires so much storage because:
 ```
 5,000,000 steps × 32 environments × ~200-500 bytes per data point
 = Approximately 40-50 GB for TensorBoard logs alone
+
+https://chatgpt.com/share/698d43bc-4de4-800d-ad35-ceb4fda58977
