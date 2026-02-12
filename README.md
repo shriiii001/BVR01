@@ -201,8 +201,11 @@ Make a non-technical version for HR or management
 Just say the word 😊
 
 
+
 You said:
 Convert this into very short bullet points
+
+https://share.google/Yl20Z89R5EGsqSG4F
 
 ChatGPT said:
 Done 👍
@@ -239,3 +242,8 @@ Longer training runs
 Reward tuning
 
 Performance improvement
+
+
+
+Plots ko simple explanation https://share.google/Yl20Z89R5EGsqSG4F
+Plots ko simple explanation https://share.google/qZMCJ0emf92jExnIQ
