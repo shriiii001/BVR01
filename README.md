@@ -247,3 +247,11 @@ Performance improvement
 
 Plots ko simple explanation https://share.google/Yl20Z89R5EGsqSG4F
 Plots ko simple explanation https://share.google/qZMCJ0emf92jExnIQ
+
+
+https://chatgpt.com/share/6992c12c-8ed4-800d-95d6-68c143ad27f3
+
+https://chatgpt.com/share/698d876d-921c-800d-a1b4-971d94f09134
+
+https://chatgpt.com/share/698d876d-921c-800d-a1b4-971d94f09134
+
