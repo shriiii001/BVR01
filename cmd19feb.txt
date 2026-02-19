@@ -1,0 +1,23 @@
+"C:\Program Files\FlightGear 2024.1\bin\fgfs.exe" ^
+--fg-root="C:\Users\shrasti patel\FlightGear\Downloads\fgdata_2024_1" ^
+--fdm=null ^
+--native-fdm=socket,in,60,127.0.0.1,5550,udp ^
+--aircraft=f16-block-52 ^
+--airport=ESSA ^
+--prop:/sim/rendering/shaders/skydome=false ^
+--prop:/sim/rendering/shadows/enabled=false ^
+--disable-terrasync ^
+--geometry=640x480
+
+"C:\Program Files\FlightGear 2024.1\bin\fgfs.exe" ^
+--fg-root="C:\Users\shrasti patel\FlightGear\Downloads\fgdata_2024_1" ^
+--fdm=null ^
+--native-fdm=socket,in,60,127.0.0.1,5551,udp ^
+--aircraft=f16-block-52 ^
+--airport=ESSA ^
+--prop:/sim/rendering/shaders/skydome=false ^
+--prop:/sim/rendering/shadows/enabled=false ^
+--disable-terrasync ^
+--geometry=640x480
+
+python visualize_trained_model.py
